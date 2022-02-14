@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi. I am Kemmei Hamada, a self-taught web programmer. 👋
+
+- 🔭 I’m currently working on React.js/Next.js projects.
+- 🌱 I’m currently learning web 3.0 and blockchain.
+- 😄 Here is [my portofolio site](https://portofolio-coral-five.vercel.app/).
+- ⚡ Fun fact: I love listening to classical music and playing chess.
 
 <!--
 **kmi2170/kmi2170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
