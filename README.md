@@ -39,5 +39,8 @@
 <img align="left" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 <br/>
 
-<img align="left" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmi2170" />
+<details>
+  <summary>Most Used Languages</summary>
+
+  <img align="left" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmi2170" />
 </details>
