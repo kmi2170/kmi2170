@@ -37,3 +37,7 @@
 <img align="left" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
+<br/>
+
+<img align="left" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmi2170" />
+</details>
