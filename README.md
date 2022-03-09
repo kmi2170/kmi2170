@@ -38,9 +38,10 @@
 <img align="left" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 <br/>
+<br/>
 
 <details>
-  <summary>Most Used Languages</summary>
+  <summary>Most Used Languages in this repos</summary>
 
   <img align="left" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmi2170" />
 </details>
