@@ -2,7 +2,7 @@
 
 - 💻 I’m currently working on React.js/Next.js projects.
 - 📚 I’m currently learning graphQL, web 3.0 and blockchain.
-- 👍 Here is [my portofolio site](https://portofolio-coral-five.vercel.app/).
+- 👍 Here is [my portfolio site](https://portofolio-coral-five.vercel.app/).
 - 😄 Fun fact: I love listening to classical music🎻 and playing chess♟️.
 
 ### Skills and experience
