@@ -1,7 +1,6 @@
 ### Hi. I am Kemmei Hamada, a self-taught web programmer. 👋
 
-- 💻 I’m currently working on React.js/Next.js projects.
-- 📚 I’m currently learning graphQL, web 3.0 and blockchain.
+- 💻 I’m currently working on React.js/Next.js, React Native projects.
 - 👍 Here is [my portfolio site](https://portofolio-coral-five.vercel.app/).
 - 😄 Fun fact: I love listening to classical music🎻 and playing chess♟️.
 
